@@ -2,7 +2,7 @@ import {useMediaQuery} from "react-responsive";
 import {useGSAP} from "@gsap/react";
 import gsap from "gsap";
 
-const Highlights = () => {
+const HighLights = () => {
     const isMobile = useMediaQuery({  query: '(max-width: 1024px)' });
 
     useGSAP(() => {
@@ -56,4 +56,4 @@ const Highlights = () => {
         </section>
     )
 }
-export default Highlights
+export default HighLights

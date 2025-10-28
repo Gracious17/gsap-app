@@ -11,7 +11,7 @@ import Showcase from "./components/Showcase";
 import  Footer  from "./components/Footer";
 import Performance from "./components/Performance";
 import Features from "./components/Features";
-import HighLight from "./components/Highlight";
+import HighLight from "./components/HighLights";
 
 gsap.registerPlugin(ScrollTrigger);
 
