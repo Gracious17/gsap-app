@@ -131,18 +131,18 @@ const featureSequence = [
   { videoPath: "/videos/feature-5.mp4", boxClass: ".box5", delay: 0 },
 ];
 
-// const footerLinks = [
-//   { label: "Privacy Policy", link: "#" },
-//   { label: "Terms of Use", link: "#" },
-//   { label: "Sales Policy", link: "#" },
-//   { label: "Legal", link: "#" },
-//   { label: "Site Map", link: "#" },
-// ];
+const footerLinks = [
+  { label: "Privacy Policy", link: "#" },
+  { label: "Terms of Use", link: "#" },
+  { label: "Sales Policy", link: "#" },
+  { label: "Legal", link: "#" },
+  { label: "Site Map", link: "#" },
+];
 
 export {
   features,
   featureSequence,
-//   footerLinks,
+  footerLinks,
   navlinks,
   noChangeParts,
   performanceImages,
